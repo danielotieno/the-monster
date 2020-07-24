@@ -1,0 +1,19 @@
+{
+  "name": "the-monster",
+  "version": "1.0.0",
+  "description": "The monster game build with Vue",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielotieno/the-monster.git"
+  },
+  "author": "Daniel Otieno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielotieno/the-monster/issues"
+  },
+  "homepage": "https://github.com/danielotieno/the-monster#readme"
+}
